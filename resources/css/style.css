@@ -26,3 +26,8 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+#copyright {
+    text-align: right;
+    color:grey;
+}
