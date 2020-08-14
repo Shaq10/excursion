@@ -30,4 +30,5 @@ body {
 #copyright {
     text-align: right;
     color:grey;
+    visibility: visible;
 }
